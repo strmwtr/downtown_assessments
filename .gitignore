@@ -1,3 +1,4 @@
 # Don't track content of these folders
 dt_venv/
 plot.png
+.ipynb_checkpoints
