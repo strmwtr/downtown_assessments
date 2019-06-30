@@ -1,1 +1,3 @@
-./dt_venv/
+# Don't track content of these folders
+dt_venv/
+plot.png
